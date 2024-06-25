@@ -1,0 +1,15 @@
+/Users/balajisivakumar/Desktop/ASP.NET/Calculator/Calculator/bin/Debug/net7.0/Calculator
+/Users/balajisivakumar/Desktop/ASP.NET/Calculator/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/balajisivakumar/Desktop/ASP.NET/Calculator/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/balajisivakumar/Desktop/ASP.NET/Calculator/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/balajisivakumar/Desktop/ASP.NET/Calculator/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/balajisivakumar/Desktop/ASP.NET/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/balajisivakumar/Desktop/ASP.NET/Calculator/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/balajisivakumar/Desktop/ASP.NET/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/balajisivakumar/Desktop/ASP.NET/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/balajisivakumar/Desktop/ASP.NET/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/balajisivakumar/Desktop/ASP.NET/Calculator/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/balajisivakumar/Desktop/ASP.NET/Calculator/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/balajisivakumar/Desktop/ASP.NET/Calculator/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/balajisivakumar/Desktop/ASP.NET/Calculator/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/balajisivakumar/Desktop/ASP.NET/Calculator/Calculator/obj/Debug/net7.0/ref/Calculator.dll
