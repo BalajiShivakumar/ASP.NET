@@ -1,0 +1,15 @@
+/Users/balajisivakumar/Projects/whileLoopOdd/whileLoopOdd/bin/Debug/net7.0/whileLoopOdd
+/Users/balajisivakumar/Projects/whileLoopOdd/whileLoopOdd/bin/Debug/net7.0/whileLoopOdd.deps.json
+/Users/balajisivakumar/Projects/whileLoopOdd/whileLoopOdd/bin/Debug/net7.0/whileLoopOdd.runtimeconfig.json
+/Users/balajisivakumar/Projects/whileLoopOdd/whileLoopOdd/bin/Debug/net7.0/whileLoopOdd.dll
+/Users/balajisivakumar/Projects/whileLoopOdd/whileLoopOdd/bin/Debug/net7.0/whileLoopOdd.pdb
+/Users/balajisivakumar/Projects/whileLoopOdd/whileLoopOdd/obj/Debug/net7.0/whileLoopOdd.csproj.AssemblyReference.cache
+/Users/balajisivakumar/Projects/whileLoopOdd/whileLoopOdd/obj/Debug/net7.0/whileLoopOdd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/balajisivakumar/Projects/whileLoopOdd/whileLoopOdd/obj/Debug/net7.0/whileLoopOdd.AssemblyInfoInputs.cache
+/Users/balajisivakumar/Projects/whileLoopOdd/whileLoopOdd/obj/Debug/net7.0/whileLoopOdd.AssemblyInfo.cs
+/Users/balajisivakumar/Projects/whileLoopOdd/whileLoopOdd/obj/Debug/net7.0/whileLoopOdd.csproj.CoreCompileInputs.cache
+/Users/balajisivakumar/Projects/whileLoopOdd/whileLoopOdd/obj/Debug/net7.0/whileLoopOdd.dll
+/Users/balajisivakumar/Projects/whileLoopOdd/whileLoopOdd/obj/Debug/net7.0/refint/whileLoopOdd.dll
+/Users/balajisivakumar/Projects/whileLoopOdd/whileLoopOdd/obj/Debug/net7.0/whileLoopOdd.pdb
+/Users/balajisivakumar/Projects/whileLoopOdd/whileLoopOdd/obj/Debug/net7.0/whileLoopOdd.genruntimeconfig.cache
+/Users/balajisivakumar/Projects/whileLoopOdd/whileLoopOdd/obj/Debug/net7.0/ref/whileLoopOdd.dll
