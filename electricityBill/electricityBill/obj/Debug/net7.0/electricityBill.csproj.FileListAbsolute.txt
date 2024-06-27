@@ -1,0 +1,15 @@
+/Users/balajisivakumar/Projects/electricityBill/electricityBill/obj/Debug/net7.0/electricityBill.csproj.AssemblyReference.cache
+/Users/balajisivakumar/Projects/electricityBill/electricityBill/obj/Debug/net7.0/electricityBill.GeneratedMSBuildEditorConfig.editorconfig
+/Users/balajisivakumar/Projects/electricityBill/electricityBill/obj/Debug/net7.0/electricityBill.AssemblyInfoInputs.cache
+/Users/balajisivakumar/Projects/electricityBill/electricityBill/obj/Debug/net7.0/electricityBill.AssemblyInfo.cs
+/Users/balajisivakumar/Projects/electricityBill/electricityBill/obj/Debug/net7.0/electricityBill.csproj.CoreCompileInputs.cache
+/Users/balajisivakumar/Projects/electricityBill/electricityBill/bin/Debug/net7.0/electricityBill
+/Users/balajisivakumar/Projects/electricityBill/electricityBill/bin/Debug/net7.0/electricityBill.deps.json
+/Users/balajisivakumar/Projects/electricityBill/electricityBill/bin/Debug/net7.0/electricityBill.runtimeconfig.json
+/Users/balajisivakumar/Projects/electricityBill/electricityBill/bin/Debug/net7.0/electricityBill.dll
+/Users/balajisivakumar/Projects/electricityBill/electricityBill/bin/Debug/net7.0/electricityBill.pdb
+/Users/balajisivakumar/Projects/electricityBill/electricityBill/obj/Debug/net7.0/electricityBill.dll
+/Users/balajisivakumar/Projects/electricityBill/electricityBill/obj/Debug/net7.0/refint/electricityBill.dll
+/Users/balajisivakumar/Projects/electricityBill/electricityBill/obj/Debug/net7.0/electricityBill.pdb
+/Users/balajisivakumar/Projects/electricityBill/electricityBill/obj/Debug/net7.0/electricityBill.genruntimeconfig.cache
+/Users/balajisivakumar/Projects/electricityBill/electricityBill/obj/Debug/net7.0/ref/electricityBill.dll
