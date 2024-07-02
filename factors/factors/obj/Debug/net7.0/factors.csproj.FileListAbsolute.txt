@@ -1,0 +1,15 @@
+/Users/balajisivakumar/Projects/factors/factors/bin/Debug/net7.0/factors
+/Users/balajisivakumar/Projects/factors/factors/bin/Debug/net7.0/factors.deps.json
+/Users/balajisivakumar/Projects/factors/factors/bin/Debug/net7.0/factors.runtimeconfig.json
+/Users/balajisivakumar/Projects/factors/factors/bin/Debug/net7.0/factors.dll
+/Users/balajisivakumar/Projects/factors/factors/bin/Debug/net7.0/factors.pdb
+/Users/balajisivakumar/Projects/factors/factors/obj/Debug/net7.0/factors.csproj.AssemblyReference.cache
+/Users/balajisivakumar/Projects/factors/factors/obj/Debug/net7.0/factors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/balajisivakumar/Projects/factors/factors/obj/Debug/net7.0/factors.AssemblyInfoInputs.cache
+/Users/balajisivakumar/Projects/factors/factors/obj/Debug/net7.0/factors.AssemblyInfo.cs
+/Users/balajisivakumar/Projects/factors/factors/obj/Debug/net7.0/factors.csproj.CoreCompileInputs.cache
+/Users/balajisivakumar/Projects/factors/factors/obj/Debug/net7.0/factors.dll
+/Users/balajisivakumar/Projects/factors/factors/obj/Debug/net7.0/refint/factors.dll
+/Users/balajisivakumar/Projects/factors/factors/obj/Debug/net7.0/factors.pdb
+/Users/balajisivakumar/Projects/factors/factors/obj/Debug/net7.0/factors.genruntimeconfig.cache
+/Users/balajisivakumar/Projects/factors/factors/obj/Debug/net7.0/ref/factors.dll
